@@ -191,7 +191,7 @@ python eval_main.py
 
 ---
 
-# 1. Data Pipeline
+## 1. Data Pipeline
 src/data_pipeline
 
 This component is responsible for **collecting, cleaning, and normalizing data** on real IVF clinics in the U.S.
@@ -258,7 +258,7 @@ Final Output file: `clinics_normalized.json`
 
 ---
 
-# 2. Database 
+## 2. Database 
 src/db/
 
 This component is responsible for database schema design, loading data into db 
@@ -302,7 +302,7 @@ full DDL in `src/db/schema.sql`
 
 ---
 
-# 3. Ranking Algorithm
+## 3. Ranking Algorithm
 src/ranking.py
 
 This component identifies and ranks the top fertility clinics for a user based on **location** and **key features**.
@@ -352,7 +352,7 @@ In case of a tie in the score, the current system doesn't account for any rankin
 
 ---
 
-# 4. Backend + Frontend
+## 4. Backend + Frontend
 Backend: main.py
 Frontend: streamlit_app.py
 
@@ -379,7 +379,7 @@ This component is responsible for the **frontend using Streamlit** and the **bac
 
 ---
 
-# 5. Integration & Unit Testing
+## 5. Integration & Unit Testing
 tests/
 
 This component **validates helper functions with unit tests** and **checks the full `/get_ranked_clinics` flow with an integration test**\
@@ -405,7 +405,7 @@ Haven't tested llm_helpers.py to avoid cost, and it is being evaluated in eval_m
 
 ---
 
-# 6. Evaluation
+## 6. Evaluation
 evals/eval_main.py
 
 This component runs sample user prompts through the full pipeline and shows the results
@@ -421,7 +421,7 @@ Note:
 
 ---
 
-## Demo Video
+# Demo Video
 
 https://drive.google.com/drive/folders/1nYwb2V2QPPzWcM3SHTKTsq77F-V2DjYs?usp=sharing
 
