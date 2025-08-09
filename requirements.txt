@@ -1,0 +1,13 @@
+playwright
+beautifulsoup4
+fastapi
+uvicorn
+streamlit
+spacy
+geopy
+python-dotenv
+pandas
+pytest
+pytest-asyncio
+httpx
+psycopg2

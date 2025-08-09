@@ -1,0 +1,2120 @@
+[
+  {
+    "name": "U of Iowa Center for Advanced Reproductive Care",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/u-of-iowa-center-for-advanced-reproductive-care",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 9.9,
+    "annual_cycles": 991,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "1360 North Dodge Street, Iowa City, IA 52245",
+    "num_reviews": 42,
+    "cdc_success_rates": {
+      "<35": 0.9790000000000001,
+      "35-37": 0.7070000000000001,
+      "38-40": 0.32,
+      ">40": 0.33899999999999997
+    },
+    "avg_cdc_success_rate": 0.58625,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Tennessee Fertility Institute (Prelude Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/tennessee-fertility-institute",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 8.5,
+    "annual_cycles": 224,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "9160 Carothers Parkway, Suite 201, Franklin, TN 37067",
+    "num_reviews": 34,
+    "cdc_success_rates": {
+      "<35": 0.82,
+      "35-37": 0.384,
+      "38-40": 0.249
+    },
+    "avg_cdc_success_rate": 0.4843333333333333,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "OC Fertility\u00ae + OC Biogenix\u00ae",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/oc-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "1401 Avocado Ave., Ste 403, Newport Beach, CA 92660",
+    "num_reviews": 51,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Conceive Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/conceive-fertility-center",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 232,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "7515 Greenville Ave,, Dallas, TX 75231",
+    "num_reviews": 8,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Positive Steps Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/positive-steps-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.4,
+    "annual_cycles": 184,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "401 Cowan Rd., Suite A,, Gulfport, MS 39507",
+    "num_reviews": 116,
+    "cdc_success_rates": {
+      "<35": 0.85
+    },
+    "avg_cdc_success_rate": 0.85,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Neway Medical",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/neway-medical",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": 224,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "123 W. 79th St, New York, NY 10024",
+    "num_reviews": 122,
+    "cdc_success_rates": {
+      "<35": 0.44,
+      "35-37": 0.28600000000000003,
+      "38-40": 0.046,
+      ">40": 0.051
+    },
+    "avg_cdc_success_rate": 0.20575000000000002,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Fertility Centers of Orange County (Ivy Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/hope-ivf-fertility-center",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.4,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "17875 Von Karman Ave., Suite 480, Irvine, CA 92614",
+    "num_reviews": 10,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "New York City IVF",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/new-york-city-ivf",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.4,
+    "annual_cycles": 204,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "693 Fifth Avenue, 7th Floor, New York, NY 10022",
+    "num_reviews": 105,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Marin Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/marin-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 336,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "1100 S. Eliseo Drive, suite 107, Greenbrae, CA 94904",
+    "num_reviews": 33,
+    "cdc_success_rates": {
+      "<35": 0.8059999999999999,
+      "35-37": 0.7509999999999999,
+      "38-40": 0.327,
+      ">40": 0.154
+    },
+    "avg_cdc_success_rate": 0.5095,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Family Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/family-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": 130,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "95 Highland Ave., Suite 100, Bethlehem, PA 18017",
+    "num_reviews": 12,
+    "cdc_success_rates": {
+      "<35": 0.953
+    },
+    "avg_cdc_success_rate": 0.953,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Reproductive Health and Wellness Center (Global Premier Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-health-and-wellness-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.6,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "23141 Moulton Pkwy, suite 204, Laguna Hills, CA 92653",
+    "num_reviews": 38,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Empower Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/empower-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 8.2,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "427 West Pueblo St., suite B/C, Santa Barbara, CA 93105",
+    "num_reviews": 9,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "RMA of Marlton, New Jersey",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-of-marlton-new-jersey",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "95 Old Marlton Pike West, Marlton, NJ 08053",
+    "num_reviews": 56,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Fertility Center & Applied Genetics of Florida",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fertility-center-and-applied-genetics-of-florida",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 190,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "9420 Fountain Medical Court, Bonita Springs, FL 34135",
+    "num_reviews": 17,
+    "cdc_success_rates": {
+      "<35": 0.737,
+      "35-37": 0.629,
+      "38-40": 0.14300000000000002
+    },
+    "avg_cdc_success_rate": 0.503,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Extend Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/extend-fertility",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 1242,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "200 West 57th Street, Suite 1101, New York, NY 10019",
+    "num_reviews": 89,
+    "cdc_success_rates": {
+      "<35": 0.541,
+      "35-37": 0.31,
+      "38-40": 0.18600000000000003
+    },
+    "avg_cdc_success_rate": 0.34566666666666673,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Michigan Center for Fertility & Women's Health",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/michigan-center-for-fertility-and-women-s-health",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 7.6,
+    "annual_cycles": 456,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "43494 Woodward, Suite 110, Bloomfiled Twp, MI 48302",
+    "num_reviews": 38,
+    "cdc_success_rates": {
+      "<35": 0.537,
+      "35-37": 0.48700000000000004,
+      "38-40": 0.256,
+      ">40": 0.11599999999999999
+    },
+    "avg_cdc_success_rate": 0.34900000000000003,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "RMA of New York - Long Island IVF",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/long-island-ivf",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 8.3,
+    "annual_cycles": 1483,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "8 Corporate Center Dr., Suite 101, Melville, NY 11747",
+    "num_reviews": 307,
+    "cdc_success_rates": {
+      "<35": 0.6729999999999999,
+      "35-37": 0.496,
+      "38-40": 0.409,
+      ">40": 0.081
+    },
+    "avg_cdc_success_rate": 0.41474999999999995,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Virginia Center for Reproductive Medicine",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/virginia-center-for-reproductive-medicine",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": 155,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "11150 Sunset Hills Road, Suite #100, Reston, VA 20190",
+    "num_reviews": 55,
+    "cdc_success_rates": {
+      "<35": 0.9
+    },
+    "avg_cdc_success_rate": 0.9,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Reproductive Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "315 E Rte 66, suite 202, Glendora, CA 91740",
+    "num_reviews": 55,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "RMA of Florida",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-florida",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 7.0,
+    "annual_cycles": 103,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.9,
+    "address": "400 Colonial Center Pkw., Suite 150, Lake Mary, FL 32746",
+    "num_reviews": 21,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Spring Fertility Silicon Valley",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/spring-fertility-silicon-valley",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 7.7,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "550 Lakeside Dr, Sunnyvale, CA 94085",
+    "num_reviews": 57,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Carolinas Fertility Institute",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/carolinas-fertility-institute",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 6.8,
+    "annual_cycles": 1154,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "2159 Hendersonville Rd, Suite 30, Arden, NC 28704",
+    "num_reviews": 84,
+    "cdc_success_rates": {
+      "<35": 1.177,
+      "35-37": 1.01,
+      "38-40": 0.536,
+      ">40": 0.26
+    },
+    "avg_cdc_success_rate": 0.74575,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Loma Linda University",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/loma-linda-university",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 282,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "11370 Anderson Street, Loma Linda, CA 92354",
+    "num_reviews": 69,
+    "cdc_success_rates": {
+      "<35": 0.244,
+      "35-37": 0.071
+    },
+    "avg_cdc_success_rate": 0.1575,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Shady Grove Fertility Carolinas",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/shady-grove-fertility-north-carolina",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.4,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.9,
+    "address": "6730 McCrimmon Parkway, Cary, NC 27519",
+    "num_reviews": 14,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Reproductive Partners Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-partners-fertility-center",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 1176,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "9850 Genesee Ave., #800, La Jolla, CA 92037",
+    "num_reviews": 80,
+    "cdc_success_rates": {
+      "<35": 0.831,
+      "35-37": 0.584,
+      "38-40": 0.384,
+      ">40": 0.17600000000000002
+    },
+    "avg_cdc_success_rate": 0.49374999999999997,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Delaware Institute for Reproductive Medicine (An IVI RMA North America Partner)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/delaware-institute-for-reproductive-medicine",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 373,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "161 Wilmington West Chester Pike, Ste 1030, Chadds Ford, PA 19317",
+    "num_reviews": 68,
+    "cdc_success_rates": {
+      "<35": 0.807,
+      "35-37": 0.324,
+      "38-40": 0.22899999999999998,
+      ">40": 0.0
+    },
+    "avg_cdc_success_rate": 0.34,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Kentucky Fertility Institute",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/kentucky-fertility-institute",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 341,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "4612 Chamberlain Ln, Louisville, KY 40241",
+    "num_reviews": 163,
+    "cdc_success_rates": {
+      "<35": 0.909,
+      "35-37": 0.743,
+      "38-40": 0.214
+    },
+    "avg_cdc_success_rate": 0.622,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Advanced Reproductive Medicine & Gynecology of Hawaii",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/advanced-reproductive-medicine-and-gynecology-of-hawaii",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.5,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "1401 South Beretania St, Suite 250, Honolulu, HI 96814",
+    "num_reviews": 40,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Baystate Reproductive Medicine",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/baystate-reproductive-medicine",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 8.7,
+    "annual_cycles": 632,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "3300 Main Street, Springfield, MA 01199",
+    "num_reviews": 21,
+    "cdc_success_rates": {
+      "<35": 0.7090000000000001,
+      "35-37": 0.659,
+      "38-40": 0.35700000000000004,
+      ">40": 0.27699999999999997
+    },
+    "avg_cdc_success_rate": 0.5005000000000001,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Northern California Fertility Medical Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/northern-california-fertility-medical-center",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 1180,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "4320 Auburn Blvd, Sacramento, CA 95841",
+    "num_reviews": 175,
+    "cdc_success_rates": {
+      "<35": 0.9259999999999999,
+      "35-37": 0.65,
+      "38-40": 0.516,
+      ">40": 0.27699999999999997
+    },
+    "avg_cdc_success_rate": 0.5922499999999999,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Boston IVF at The Women's Hospital",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/boston-ivf-at-the-women-s-hospital",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.6,
+    "annual_cycles": 568,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "4199 Gateway Blvd Ste 2600, Newburgh, IN 47630",
+    "num_reviews": 43,
+    "cdc_success_rates": {
+      "<35": 0.953,
+      "35-37": 0.67
+    },
+    "avg_cdc_success_rate": 0.8115,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Puerto Rico Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/puerto-rico-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 233,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "Paseo San Pablo, Bayamon, PR 00961",
+    "num_reviews": 7,
+    "cdc_success_rates": {
+      "<35": 0.639,
+      "35-37": 0.384,
+      "38-40": 0.6459999999999999,
+      ">40": 0.063
+    },
+    "avg_cdc_success_rate": 0.433,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "RMA of Southern California",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-medicine-associates-of-southern-california-rma-of-southern-california",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.5,
+    "annual_cycles": 122,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "11500 W. Olympic Blvd., Suite 150, Los Angeles, CA 90064",
+    "num_reviews": 30,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "DFW Center for Fertility & IVF",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/dfw-center-for-fertility-ivf",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": 101,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "980 Raintree Circle, Allen, TX 75013",
+    "num_reviews": 11,
+    "cdc_success_rates": {
+      "<35": 0.953
+    },
+    "avg_cdc_success_rate": 0.953,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "RMA of Texas",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-of-texas-e52f2b5c-aaa7-4728-baf3-7ee02ebf59b7",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "888 Westheimer Rd., Suite 200, Houston, TX 77006",
+    "num_reviews": 26,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Santa Barbara Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/santa-barbara-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.6,
+    "annual_cycles": 194,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "536 East Arrellaga, suite 201, Santa Barbara, CA 93103",
+    "num_reviews": 20,
+    "cdc_success_rates": {
+      "<35": 0.544,
+      "35-37": 0.19699999999999998,
+      "38-40": 0.09300000000000001
+    },
+    "avg_cdc_success_rate": 0.278,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "MetroHealth",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/metrohealth",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 8.5,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "12301 Snow Rd, Parma, OH 44130",
+    "num_reviews": 12,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Fertility Center of Chattanooga",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fertility-center-of-chattanooga",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": 327,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "7407 Ziegler Road, Chattanooga, TN 37421",
+    "num_reviews": 33,
+    "cdc_success_rates": {
+      "<35": 0.409,
+      "35-37": 0.204
+    },
+    "avg_cdc_success_rate": 0.3065,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Beverly Hills Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/beverly-hills-fertility",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 8.7,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "10390 Santa Monica Blvd., Suite 340, Los Angeles, CA 90025",
+    "num_reviews": 47,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Fertility Center of the Carolinas",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fertility-center-of-the-carolinas-greenville-health",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": 327,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "100 Palmetto Health Parkway, Suite 200, Columbia, SC 29212",
+    "num_reviews": 53,
+    "cdc_success_rates": {
+      "<35": 1.0759999999999998,
+      "35-37": 0.45399999999999996,
+      "38-40": 0.5589999999999999
+    },
+    "avg_cdc_success_rate": 0.6963333333333331,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Spring Fertility - Portland",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/spring-fertility-portland",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 8.6,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "2055 NW Savier St., Suite 150, Portland, OR 97209",
+    "num_reviews": 9,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "IVF Fertility Center (Ivy Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/ivf-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": 84,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "16055 Ventura Blvd, Suite 700, Encino, CA 91436",
+    "num_reviews": 26,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Damien Fertility Partners",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/damien-fertility-partners",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 525,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "60 Park Place, Suite 210, Newark, NJ 07102",
+    "num_reviews": 26,
+    "cdc_success_rates": {
+      "<35": 0.7559999999999999,
+      "35-37": 0.449,
+      "38-40": 0.159,
+      ">40": 0.053
+    },
+    "avg_cdc_success_rate": 0.35424999999999995,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Weill Cornell Medical College",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/weill-cornell-medical-college",
+    "number_of_doctors": 15,
+    "avg_doctor_score": 8.5,
+    "annual_cycles": 6039,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "186 Joralemon Street, 6th Floor, Brooklyn, NY 11201",
+    "num_reviews": 749,
+    "cdc_success_rates": {
+      "<35": 0.674,
+      "35-37": 0.534,
+      "38-40": 0.35700000000000004,
+      ">40": 0.11699999999999999
+    },
+    "avg_cdc_success_rate": 0.42050000000000004,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Braverman Reproductive Immunology",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/braverman-reproductive-immunology",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 8.7,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "155 EAst 76th Stree, Suite 1H, New York, NY 10021",
+    "num_reviews": 44,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "HART Fertility Clinic (FKA North Houston Center for Reproductive Medicine)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/north-houston-center-for-reproductive-medicine",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": 107,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "350 Kingwood Medical Drive, Suite 320, Kingwood, TX 77339",
+    "num_reviews": 15,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Kofinas Fertility Group",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/kofinas-fertility-group",
+    "number_of_doctors": 6,
+    "avg_doctor_score": 8.9,
+    "annual_cycles": 928,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "118 3rd Ave, Brooklyn, NY 11217",
+    "num_reviews": 149,
+    "cdc_success_rates": {
+      "<35": 1.0,
+      "35-37": 0.599,
+      "38-40": 0.517,
+      ">40": 0.21
+    },
+    "avg_cdc_success_rate": 0.5815,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "CCRM New York",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/ccrm-new-york",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": 1603,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "810 7th Ave, 21st Floor, New York, NY 10019",
+    "num_reviews": 170,
+    "cdc_success_rates": {
+      "<35": 0.79,
+      "35-37": 0.6859999999999999,
+      "38-40": 0.44299999999999995,
+      ">40": 0.076
+    },
+    "avg_cdc_success_rate": 0.49874999999999997,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Fort Worth Fertility (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fort-worth-fertility",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 719,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "1800 Mistletoe Blvd., Fort Worth, TX 76104",
+    "num_reviews": 59,
+    "cdc_success_rates": {
+      "<35": 0.919,
+      "35-37": 0.596,
+      "38-40": 0.677,
+      ">40": 0.09
+    },
+    "avg_cdc_success_rate": 0.5705,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Shady Grove Fertility Texas (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/shady-grove-fertility-houston",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": 1105,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "2344 Dowlen Road, Beaumont, TX 77706",
+    "num_reviews": 174,
+    "cdc_success_rates": {
+      "<35": 0.927,
+      "35-37": 0.653,
+      "38-40": 0.517,
+      ">40": 0.084
+    },
+    "avg_cdc_success_rate": 0.54525,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "OU Physicians Reproductive Health",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/ou-physicians-reproductive-health",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 407,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "840 Research Parkway, Suite 200, Oklahoma City, OK 73104",
+    "num_reviews": 58,
+    "cdc_success_rates": {
+      "<35": 0.934,
+      "35-37": 0.617,
+      "38-40": 0.32299999999999995
+    },
+    "avg_cdc_success_rate": 0.6246666666666667,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Columbia University",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/columbia-university",
+    "number_of_doctors": 14,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 2162,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "5 Columbus Circle, New York, NY 10019",
+    "num_reviews": 636,
+    "cdc_success_rates": {
+      "<35": 0.679,
+      "35-37": 0.46299999999999997,
+      "38-40": 0.303,
+      ">40": 0.153
+    },
+    "avg_cdc_success_rate": 0.3995,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Utah Fertility Center (Ivy Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/utah-fertility-center",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 8.8,
+    "annual_cycles": 2603,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "7050 Union Park Ave., Suite 500, Midvale, UT 84047",
+    "num_reviews": 329,
+    "cdc_success_rates": {
+      "<35": 0.99,
+      "35-37": 0.636,
+      "38-40": 0.469,
+      ">40": 0.073
+    },
+    "avg_cdc_success_rate": 0.542,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Augusta University Reproductive Medicine and Infertility Associates",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/georgia-regents",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 158,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "810 Chafee Avenue, Augusta, GA 30905",
+    "num_reviews": 36,
+    "cdc_success_rates": {
+      "<35": 0.774
+    },
+    "avg_cdc_success_rate": 0.774,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "University of Mississippi",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/university-of-mississippi",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 111,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "2925 Layfair Drive, Flowood, MS 39232",
+    "num_reviews": 46,
+    "cdc_success_rates": {
+      "<35": 1.014
+    },
+    "avg_cdc_success_rate": 1.014,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Kindbody - St. Louis",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/kindbody-st-louis",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 9.5,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "5551 Winghaven Blvd, O'Fallon, MO 63368",
+    "num_reviews": 87,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Arbor Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/arbor-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.9,
+    "address": "12 Municipal Drive Suite D, Arnold, MO 63010",
+    "num_reviews": 18,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Spring Fertility East Bay",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/spring-fertility-east-bay",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "905 San Ramon Valley Blvd., suite 26, Danville, CA 94526",
+    "num_reviews": 88,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Center for Reproductive Medicine of Alabama",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/center-for-reproductive-medicine-of-alabama",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 7.8,
+    "annual_cycles": 339,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "11505 Cinema Drive, Suite 13, D'Iberville, MS 39540",
+    "num_reviews": 51,
+    "cdc_success_rates": {
+      "<35": 0.897,
+      "35-37": 0.634,
+      "38-40": 0.266
+    },
+    "avg_cdc_success_rate": 0.5990000000000001,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "RMA of Basking Ridge, New Jersey",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-of-new-jersey",
+    "number_of_doctors": 27,
+    "avg_doctor_score": 8.7,
+    "annual_cycles": 8248,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "1401 N. Cedar Crest Blvd, Allentown, PA 18104",
+    "num_reviews": 521,
+    "cdc_success_rates": {
+      "<35": 0.9390000000000001,
+      "35-37": 0.764,
+      "38-40": 0.537,
+      ">40": 0.24100000000000002
+    },
+    "avg_cdc_success_rate": 0.6202500000000001,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Shady Grove Fertility Colorado (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/shady-grove-fertility-colorado",
+    "number_of_doctors": 7,
+    "avg_doctor_score": 8.8,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "4105 Briargate Pkwy, Suite 255, Colorado Springs, CO 80920",
+    "num_reviews": 14,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Fertility Wellness Institute of Ohio",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fertility-wellness-institute-of-ohio",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 57,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "7671 Tylers Place Blvd., West Chester, OH 45069",
+    "num_reviews": 24,
+    "cdc_success_rates": {
+      "<35": 0.524
+    },
+    "avg_cdc_success_rate": 0.524,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Texas Fertility Center (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/texas-fertility-center",
+    "number_of_doctors": 9,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 2234,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "13625 Ronald W. Reagan Blvd., Bldg. 7, Suite 200, Cedar Park, TX 78613",
+    "num_reviews": 141,
+    "cdc_success_rates": {
+      "<35": 0.667,
+      "35-37": 0.5489999999999999,
+      "38-40": 0.389,
+      ">40": 0.10300000000000001
+    },
+    "avg_cdc_success_rate": 0.427,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Hanabusa IVF",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/hanabusa-ivf",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "4910 Directors Pl., suite 150, San Diego, CA 92121",
+    "num_reviews": 55,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Shady Grove Fertility Tampa Bay (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/shady-grove-fertility-tampa-bay",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 272,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "515 South Kings Ave., Suite 2200, Brandon, FL 33511",
+    "num_reviews": 35,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Center for Advanced Reproductive Services (First Fertility Network Clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/center-for-advanced-reproductive-services-uconn-medical",
+    "number_of_doctors": 9,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 1912,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "6 Business Park Drive, Suite 304, Branford, CT 06405",
+    "num_reviews": 85,
+    "cdc_success_rates": {
+      "<35": 0.873,
+      "35-37": 0.621,
+      "38-40": 0.306,
+      ">40": 0.124
+    },
+    "avg_cdc_success_rate": 0.481,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Sama Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/sama-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.6,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "115 E 57th Street, New York, NY 10022",
+    "num_reviews": 19,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Illume Fertility (The Fertility Partners Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-of-connecticut",
+    "number_of_doctors": 9,
+    "avg_doctor_score": 8.8,
+    "annual_cycles": 2078,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "761 Main Ave., Suite 200, Norwalk, CT 06851",
+    "num_reviews": 111,
+    "cdc_success_rates": {
+      "<35": 0.727,
+      "35-37": 0.624,
+      "38-40": 0.301,
+      ">40": 0.153
+    },
+    "avg_cdc_success_rate": 0.45125,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "IVFMD - Arlington (Fertility Specialist Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/ivfmd-arlington",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 9.6,
+    "annual_cycles": 44,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "600 W.Mayfield Rd, Arlington, TX 76014",
+    "num_reviews": 7,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Polcz Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/polcz-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": 15,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "9868 S State Road 7, Boynton Beach, FL 33472",
+    "num_reviews": 6,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Shady Grove Fertility Pennsylvania (US Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/shady-grove-fertility-pennsylvania",
+    "number_of_doctors": 11,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 1878,
+    "national_annual_cycles": 738,
+    "avg_rating": 8.9,
+    "address": "1653 The Fairway, Suite 218, Jenkintown, PA 19046",
+    "num_reviews": 129,
+    "cdc_success_rates": {
+      "<35": 0.82,
+      "35-37": 0.679,
+      "38-40": 0.39,
+      ">40": 0.27399999999999997
+    },
+    "avg_cdc_success_rate": 0.54075,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Think Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/think-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 10.0,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "1135 116th Ave NE, Suite 630, Bellevue, WA 98004",
+    "num_reviews": 21,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "RMA of Michigan (Innovation Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/rma-of-michigan",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 8.9,
+    "annual_cycles": 785,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "130 Town Center Drive, Troy, MI 48084",
+    "num_reviews": 81,
+    "cdc_success_rates": {
+      "<35": 0.8029999999999999,
+      "35-37": 0.466,
+      "38-40": 0.45899999999999996,
+      ">40": 0.18899999999999997
+    },
+    "avg_cdc_success_rate": 0.47924999999999995,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Mississippi Reproductive Medicine",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/mississippi-reproductive-medicine",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": 201,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "2500 Lakeland Drive, Flowood, MS 39232",
+    "num_reviews": 79,
+    "cdc_success_rates": {
+      "<35": 0.627,
+      "35-37": 0.49700000000000005
+    },
+    "avg_cdc_success_rate": 0.562,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Blue Sky Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/blue-sky-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.1,
+    "annual_cycles": 345,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.4,
+    "address": "14253 Metcalf Ave, Overland Park, KS 66223",
+    "num_reviews": 38,
+    "cdc_success_rates": {
+      "<35": 0.789,
+      "35-37": 0.7140000000000001
+    },
+    "avg_cdc_success_rate": 0.7515000000000001,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Kaldas Center for Fertility, Surgery, & Pregnancy",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/kaldas-center-for-fertility-surgery-and-pregnancy",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 8.9,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "701 S Nicolet Road,, Appleton, WI 54914",
+    "num_reviews": 15,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Conceptions Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/conceptions-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 62,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "2245 N 400 E., Suite 201, North Logan, UT 84341",
+    "num_reviews": 66,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Island Reproductive Services",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/island-reproductive-services",
+    "number_of_doctors": 2,
+    "avg_doctor_score": 7.9,
+    "annual_cycles": 584,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.3,
+    "address": "3000 Hadley Road, Suite 2C, South Plainfield, NJ 07080",
+    "num_reviews": 77,
+    "cdc_success_rates": {
+      "<35": 0.691,
+      "35-37": 0.6609999999999999,
+      "38-40": 0.38,
+      ">40": 0.18100000000000002
+    },
+    "avg_cdc_success_rate": 0.47824999999999995,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Virginia Fertility & IVF (Ivy Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-medicine-and-surgery-center-of-virginia",
+    "number_of_doctors": 3,
+    "avg_doctor_score": 9.4,
+    "annual_cycles": 531,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.1,
+    "address": "4100 Olympia Circle, Suite 201, Charlottesville, VA 22911",
+    "num_reviews": 101,
+    "cdc_success_rates": {
+      "<35": 0.976,
+      "35-37": 0.6829999999999999,
+      "38-40": 0.33299999999999996
+    },
+    "avg_cdc_success_rate": 0.664,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "West Coast Fertility Centers",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/west-coast-fertility-centers",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.2,
+    "annual_cycles": 233,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "11160 Warner Ave., suite 411, Fountain Valley, CA 92708",
+    "num_reviews": 11,
+    "cdc_success_rates": {
+      "<35": 0.49700000000000005,
+      "35-37": 0.204
+    },
+    "avg_cdc_success_rate": 0.35050000000000003,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Fertility & Surgical Associates of California (First Fertility Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/fertility-surgical-associates-of-california",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 1606,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.6,
+    "address": "5400 Balboa Blvd., suite 312, Encino, CA 91316",
+    "num_reviews": 102,
+    "cdc_success_rates": {
+      "<35": 0.879,
+      "35-37": 0.616,
+      "38-40": 0.42100000000000004,
+      ">40": 0.09699999999999999
+    },
+    "avg_cdc_success_rate": 0.50325,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Aimee Eyvazzadeh",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/aimee-eyvazzadeh",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.8,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.8,
+    "address": "5401 Norris Canyon Rd., Suite 106, San Ramon, CA 94583",
+    "num_reviews": 80,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": true
+  },
+  {
+    "name": "Audubon Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/audubon-fertility-reproductive-medicine",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 622,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "4321 Magnolia Street, New Orleans, LA 70115",
+    "num_reviews": 127,
+    "cdc_success_rates": {
+      "<35": 0.86,
+      "35-37": 0.551,
+      "38-40": 0.486
+    },
+    "avg_cdc_success_rate": 0.6323333333333333,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Muna Fertility",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/muna-fertility",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 8.8,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 10.0,
+    "address": "5887 Glenridge drive, Ste 300, Atlanta, GA 30328",
+    "num_reviews": 6,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Park Avenue Fertility & Reproductive Medicine",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/park-avenue-fertility-reproductive-medicine",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.5,
+    "annual_cycles": 284,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "1305 Post Road, Suite 100, Fairfield, CT 06824",
+    "num_reviews": 37,
+    "cdc_success_rates": {
+      "<35": 0.7609999999999999,
+      "35-37": 0.75,
+      "38-40": 0.38299999999999995,
+      ">40": 0.13
+    },
+    "avg_cdc_success_rate": 0.506,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Viera Fertility Center (Fertility Specialist Network clinic)",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/viera-fertility-center",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": 157,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.7,
+    "address": "3160 Alzante Circle, Melbourne, FL 32940",
+    "num_reviews": 10,
+    "cdc_success_rates": {
+      "<35": 0.767,
+      "35-37": 0.613
+    },
+    "avg_cdc_success_rate": 0.69,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Banafsheh N. Kashani, MD, FACOG",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/banafsheh-n-kashani-md-facog",
+    "number_of_doctors": 1,
+    "avg_doctor_score": 9.7,
+    "annual_cycles": null,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "24541 Pacific Park Dr Suite # 109, Aliso Viejo, CA 92656",
+    "num_reviews": 29,
+    "cdc_success_rates": {},
+    "avg_cdc_success_rate": null,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "NYU Langone Reproductive Specialists of New York",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/reproductive-specialists-of-new-york",
+    "number_of_doctors": 5,
+    "avg_doctor_score": 9.0,
+    "annual_cycles": 997,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.2,
+    "address": "16 Court Street, 27th Floor, Brooklyn, NY 11241",
+    "num_reviews": 180,
+    "cdc_success_rates": {
+      "<35": 0.763,
+      "35-37": 0.521,
+      "38-40": 0.369,
+      ">40": 0.126
+    },
+    "avg_cdc_success_rate": 0.44475,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "Emory University Reproductive Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/emory-university-reproductive-center",
+    "number_of_doctors": 8,
+    "avg_doctor_score": 9.3,
+    "annual_cycles": 851,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.0,
+    "address": "1365 Clifton Road, NE Building A, 4th Floor, Atlanta, GA 30322",
+    "num_reviews": 93,
+    "cdc_success_rates": {
+      "<35": 0.9840000000000001,
+      "35-37": 0.741,
+      "38-40": 0.509,
+      ">40": 0.179
+    },
+    "avg_cdc_success_rate": 0.6032500000000001,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  },
+  {
+    "name": "UT Medicine Fertility Center",
+    "url": "https://www.fertilityiq.com/fertilityiq/clinics/ut-medicine-fertility-center",
+    "number_of_doctors": 4,
+    "avg_doctor_score": 6.7,
+    "annual_cycles": 219,
+    "national_annual_cycles": 738,
+    "avg_rating": 9.5,
+    "address": "8300 Floyd Curl Drive, 5th Floor, San Antonio, TX 78229",
+    "num_reviews": 36,
+    "cdc_success_rates": {
+      "<35": 0.779,
+      "35-37": 0.071
+    },
+    "avg_cdc_success_rate": 0.425,
+    "national_cdc_success_rates": {
+      "<35": 0.753,
+      "35-37": 0.5429999999999999,
+      "38-40": 0.349,
+      ">40": 0.113
+    },
+    "avg_national_cdc_success_rate": 0.4395,
+    "is_gaia_partner": false
+  }
+]
