@@ -1,4 +1,4 @@
-# GAIA IVF Clinic Recommendation System
+# IVF Clinic Ranking Prototype System
 
 This is a prototype of IVF Clinic Recommendation System that helps users find the right fertility clinic for their IVF treatment using natural language input.
 
@@ -7,7 +7,7 @@ This is a prototype of IVF Clinic Recommendation System that helps users find th
 ## Project Structure
 
 ```
-GAIA/
+IVF/
 ├── data/                 # Raw and processed clinic datasets
 ├── db/                   # DB schema, seed and data loading logic script
 ├── src/
@@ -37,8 +37,8 @@ cd <repo_name>
 ### 2. Create and activate a conda environment
 
 ```
-conda create -name GAIA 
-conda activate GAIA
+conda create -name IVF 
+conda activate IVF
 conda install pip
 pip install -r requirements.txt
 python -m spacy download en_core_web_trf
@@ -107,7 +107,7 @@ Then make it executable and reload env:
 ```
 chmod +x env_vars.sh
 conda deactivate
-conda activate GAIA
+conda activate IVF
 ```
 
 4. Verify:
@@ -220,7 +220,7 @@ Each clinic record contained:
 |------|--------|-------------|
 | 1 | `crawl.py` | Extracts URLs of ~100 clinics from the landing page |
 | 2 | `scraping_clinics_links.py` | Visits each clinic page and extracts structured data |
-| 3 | `add_gaia_flag_to_clinic.py` | Randomly assigns ~30 % of clinics as GAIA partners |
+| 3 | `add_flag_to_clinic.py` | Randomly assigns ~30 % of clinics as partners |
 | 4 | `clean_clinics_data.py` | Removes or imputes data for clinics missing feature entries |
 | 5 | `add_lat_long_to_clinics.py` | Extracts city/state/zip, then fetches latitude & longitude |
 | 6 | `normalize_clinics_data.py` | Normalizes key metrics for downstream ranking |
@@ -249,7 +249,7 @@ Key features are normalized to enable fair comparisons:
 
 - **First address per clinic only** – for simplicity, we only pick the primary address where multiple branches are present for clinic.
 - **Incomplete clinics removed** – records missing doctors or address are dropped during cleaning.  
-- **GAIA partnership randomly assigned** – true GAIA affiliations are not public; ~30 % of clinics are flagged using a uniform random draw.  
+- **Partnership randomly assigned** – true affiliations are not public; ~30 % of clinics are flagged using a uniform random draw.  
 - **Success rates averaged** – an overall `success_rate` is computed as the mean of age-group success rates for ranking purposes.  
 
 ---
@@ -348,7 +348,7 @@ Distance score calculations:
 distance_score = max(0, 1 - min(dist / DIST, 1))
 ```
 
-In case of a tie in the score, the current system doesn't account for any ranking between them, but in the future we can give more priority to GAIA partners clinics or some features to break the tie.
+In case of a tie in the score, the current system doesn't account for any ranking between them, but in the future we can give more priority to partners clinics or some features to break the tie.
 
 ---
 
@@ -374,7 +374,7 @@ This component is responsible for the **frontend using Streamlit** and the **bac
 - The user types something like *“We live in Seattle and are looking for top IVF clinics.”* in UI
 - Streamlit issues a **GET** to `/get_ranked_clinics?user_prompt=...`.
 - In Backend, retrieves clinics from PostgreSQL and calls `get_clinic_candidates_for_ranking` to rank clinics. Pass the prompt + ranked list to the Perplexity LLM. Return an LLM-generated summary as JSON
-- UI displays the clinic's recommendation text, and if the clinic is a GAIA Partner, it is shown as a highlighted tag. For future versions, **clinic URLs as clickable links** can be included to help users quickly explore options and save time.
+- UI displays the clinic's recommendation text, and if the clinic is a Partner, it is shown as a highlighted tag. For future versions, **clinic URLs as clickable links** can be included to help users quickly explore options and save time.
 
 
 ---
